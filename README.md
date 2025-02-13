@@ -1,5 +1,5 @@
-# 최원영과 이소민의 결혼식 모바일 청첩장
-![date](https://img.shields.io/date/1558189800.svg?style=for-the-badge)
+# 노나오와 김유라의 결혼식 모바일 청첩장
+![date](https://img.shields.io/date/1743271200.svg?style=for-the-badge)
 
 이 repository는 결혼식 초대를 위한 모바일청첩장입니다. 축하 메시지는 pull request로 받습니다. :)
 
@@ -11,6 +11,6 @@
 
 * 날짜 : 2025년 3월 29일 11시 00분
 * 장소 : 부산광역시 해운대구 센텀시티 센텀사이언스파크 23층
-* 장소 : 광주광역시 서구 치평동 상무누리로 59 268-18
+* 장소 : 광주광역시 서구 치평동 268-18 (상무누리로 59)
 * 청첩장 url : https://skdh2010.github.io/wedding-card/
 
